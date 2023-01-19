@@ -1,3 +1,4 @@
+/*Container*/
 .container{
   height: 100vh;
   display: flex;
@@ -5,9 +6,11 @@
   justify-content: center;
   align-items: center;
 }
+/*Title h1*/
 .container h1{
   text-align: center;
 }
+/*Input to put the link*/
 .input{
   height: 38px;
   border-radius: 8px;
