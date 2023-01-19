@@ -1,6 +1,6 @@
 # QR Code generator using React JS
-<p>(En) I hope you enjoy! version 1.0.</p>
-<p>(PT) Espero que goste! versão 1.0.</p>
+<p>(En) QRCode generator using React js with download option.</p>
+<p>(PT) Gerador de QRCode usando React js com opção de download.</p>
 <p>Deploy: https://johnandrade65.github.io/app-qrcode-reactjs/</p>
 <img src="./public/readme.png" alt="Screen Capture">
 Abra usando o internet explorer para uma experiência melhor!.
